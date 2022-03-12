@@ -7,7 +7,9 @@
 
 ## Upcoming Features
 - Simple and Easy To Use
-- Responsive
-- Allows you to add bulk data for packages
-- Automatic Pickup Request button after bulk entry
+- Responsive Design
 - Generates Load Sheets Easily 
+- Allows you to add bulk data for packages
+- API keys are not stored for safety purposes
+- Automatic Pickup Request button after bulk entry
+
